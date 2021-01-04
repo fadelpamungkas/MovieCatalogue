@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogue2</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Serial TV</string>
+    <string name="rating">Penilaian</string>
+    <string name="release">Rilis</string>
+    <string name="adult">Dewasa</string>
+    <string name="popularity">Popularitas</string>
+    <string name="descriptions">Deskripsi</string>
+    <string name="detail">Detil</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="added">Ditambah</string>
+    <string name="already_on_database">Sudah di Database</string>
+    <string name="deleted">Dihapus</string>
+    <string name="favourite">Disukai</string>
+    <string name="search">Cari</string>
+    <string name="find_movies">Cari Film</string>
+</resources>

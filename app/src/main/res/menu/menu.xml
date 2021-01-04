@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item android:id="@+id/menu_movie"
+        android:title="Movie"
+        android:icon="@drawable/ic_movie_black_24dp"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_tvshow"
+        android:title="TV Show"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_favourite"
+        android:title="Favourite"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        app:showAsAction="always"/>
+</menu>
